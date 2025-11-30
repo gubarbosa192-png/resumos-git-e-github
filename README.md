@@ -143,7 +143,7 @@ Para criar uma cópia local de um repositório remoto use o comando:
 
 ## 7. Atualizando repositórios
 
- Repositório local (`git pull`)
+ Repositório local (*git pull*)
 
 Para atualizar seu **repositório local** com as últimas alterações feitas no repositório remoto use o comando:
 - *git pull <remote_URL ou remote_name> <nome_da_branch>*
@@ -152,7 +152,7 @@ Para atualizar seu **repositório local** com as últimas alterações feitas no
 Atualizando branch atual com a branch remota feature:
 - *git pull origin feature*
 
-| **Repositório remoto** (`git push`) |
+| **Repositório remoto** (*git push*) |
 |-------------------------------------|
 
 Para atualizar seu *repositório remoto* com as últimas alterações feitas no repositório local use o comando:
